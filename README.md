@@ -1,1 +1,1 @@
-# Integracão Sqlite e Python Projeto1 (Básico)
+# Integracão Sqlite e Python Projeto1
